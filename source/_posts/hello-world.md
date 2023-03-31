@@ -1,5 +1,18 @@
 ---
-title: Hello World
+title: 快速開始
+tags:
+  - 教程
+  - Hexo
+  - 主題
+  - butterfly
+categories: Docs文檔
+keywords: 'hexo,butterfly,主題,doc,教程,文檔'
+description: 快速開始
+cover: 'https://file.crazywong.com/gh/jerryc127/CDN/img/butterfly-docs-01-cover.png'
+sticky: 100
+comments: true
+abbrlink: 8b56b646
+date: 2020-05-28 22:31:46
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
