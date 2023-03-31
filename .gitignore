@@ -8,3 +8,10 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+package-lock.json
+yarn.lock
+.history/
+source/_backup/
+.deploy_git/
+scripts/
+pnpm-lock.yaml
