@@ -515,9 +515,9 @@ theme_color:
 
 # The top_img settings of home page
 # default: top img - full screen, site info - middle (默認top_img全屏，site_info在中間)
-# The position of site info, eg: 300px/300em/300rem/10% (主頁標題距離頂部距離)
+# The position of site info, eg: 18.75rem/300em/4800px/10% (主頁標題距離頂部距離)
 index_site_info_top:
-# The height of top_img, eg: 300px/300em/300rem (主頁top_img高度)
+# The height of top_img, eg: 18.75rem/300em/4800px (主頁top_img高度)
 index_top_img_height:
 
 # The user interface setting of category and tag page (category和tag頁的UI設置)
@@ -594,7 +594,7 @@ ClickShowText:
     # - I
     # - LOVE
     # - YOU
-  fontSize: 15px
+  fontSize: .9375rem
   random: false
   mobile: false
 
@@ -658,7 +658,8 @@ preloader:
   # 2. pace (progress bar)
   source: 1
   # pace theme (see https://codebyzach.github.io/pace/)
-  pace_css_url: https://file.axyr.org.cn/fonts/loading-bar.css
+  pace_css_url: 
+  # https://file.axyr.org.cn/fonts/loading-bar.css
 
 # aside (側邊欄)
 # --------------------------------------
@@ -894,7 +895,7 @@ css_prefix: true
 inject:
   head:
     - <link rel="preconnect" href="https://file.crazywong.com">
-    - '<style type="text/css">.card-announcement .social-button{margin:.6rem 0 0 0;text-align:center}.card-announcement .social-button a{display:block;background-color:var(--btn-bg);color:var(--btn-color);text-align:center;line-height:2.4;margin:4px 0}.card-announcement .social-button a:hover{background-color:var(--btn-hover-color)}</style>'
+    - '<style type="text/css">.card-announcement .social-button{margin:9.6px 0 0 0;text-align:center}.card-announcement .social-button a{display:block;background-color:var(--btn-bg);color:var(--btn-color);text-align:center;line-height:2.4;margin:.25rem 0}.card-announcement .social-button a:hover{background-color:var(--btn-hover-color)}</style>'
 
       # - <link rel="stylesheet" href="/xxx.css">
   bottom:
