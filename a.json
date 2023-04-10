@@ -1,0 +1,38 @@
+[
+  {
+    "enable": true,
+    "alias": "王波",
+    "phone": "15238750610",
+    "password": "nb171223",
+    "deviceType": "Xiaomi|Mi 13|13",
+    "deviceId": "5ef6a84401e04c83834fed5b04baf061ac9f",
+    "address": "河南省郑州市中原区河南省郑州市中原区棉纺西路36号王府井B座二单元2404室",
+    "longitude": "113.612526",
+    "latitude": "34.761707",
+    "pushKey": "57441459dbe14884bfdef07f27272980"
+  },
+  {
+    "enable": true,
+    "alias": "李金璨",
+    "phone": "13837468357",
+    "password": "20021201jc",
+    "deviceType": "Xiaomi|Mi 13|13",
+    "deviceId": "2ff22b97d6a448fbbc927a93c0e19869781e",
+    "address": "河南省焦作市示范区世纪大道正大国贸6号楼",
+    "longitude": "113.254669",
+    "latitude": "35.183552",
+    "pushKey": "cd3c96bb4dc040ec912bae3ace2d60ba"
+  },
+  {
+    "enable": true,
+    "alias": "何水旺",
+    "phone": "15565919250",
+    "password": "hsw123456",
+    "deviceType": "Xiaomi|Mi 13|13",
+    "deviceId": "27a58cab4bd547a280d3cb9745cf544716f9",
+    "address": "河南省郑州市中原区河南省郑州市中原区棉纺西路36号王府井B座二单元2404室",
+    "longitude": "113.612526",
+    "latitude": "34.761707",
+    "pushKey": "72f418e38f6b4c549082eac79a28d268"
+  }
+]

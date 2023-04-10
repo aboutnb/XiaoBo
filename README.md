@@ -11,5 +11,5 @@
 #### hexo server 启动
 #### hexo build 打包
 #### hexo clean 清除
-#### hexo deploy
+#### hexo deploy 部署
 #### npm run hexo new 我的第一篇博客
