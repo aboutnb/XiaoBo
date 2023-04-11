@@ -5,7 +5,7 @@ tags:
 categories: Vue
 keywords: Vue
 description: vue解决跨域问题
-cover: 'https://file.crazywong.com/gh/jerryc127/CDN/img/butterfly-docs-01-cover.png'
+cover: 'https://img.axyr.org.cn/image/bug.jpg'
 sticky: 
 comments: true
 abbrlink: de82cbf6

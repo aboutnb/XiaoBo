@@ -6,7 +6,7 @@ tags:
 categories: HTML
 keywords: 'HTML,Lottie'
 description: HTML使用lottie
-cover: 'https://file.crazywong.com/gh/jerryc127/CDN/img/butterfly-docs-01-cover.png'
+cover: 'https://img.axyr.org.cn/image/bug.jpg'
 sticky: 
 comments: true
 abbrlink: 1ff9810f

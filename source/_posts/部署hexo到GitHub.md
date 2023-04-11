@@ -5,7 +5,7 @@ tags:
 categories: Hexo
 keywords: Hexo
 description: 部署hexo到GitHub
-cover: 'https://file.crazywong.com/gh/jerryc127/CDN/img/butterfly-docs-01-cover.png'
+cover: 'https://img.axyr.org.cn/image/bug.jpg'
 sticky: 
 comments: true
 abbrlink: 51fdedbd

@@ -5,7 +5,7 @@ tags:
 categories: CSS
 keywords: CSS
 description: CSS去除页面滚动条
-cover: 'https://file.crazywong.com/gh/jerryc127/CDN/img/butterfly-docs-01-cover.png'
+cover: 'https://img.axyr.org.cn/image/bug.jpg'
 sticky: 
 comments: true
 abbrlink: b1908561

@@ -7,7 +7,7 @@ tags:
 categories: Vue
 keywords: 'Vue,Lottie,动画'
 description: vue中使用Lottie动画
-cover: 'https://file.crazywong.com/gh/jerryc127/CDN/img/butterfly-docs-01-cover.png'
+cover: 'https://img.axyr.org.cn/image/bug.jpg'
 sticky: 
 comments: true
 abbrlink: 54ce7671
