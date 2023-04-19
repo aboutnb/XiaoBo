@@ -25,7 +25,7 @@
 - class_name: '<i class="fas fa-fan" style="color:#00cccc;padding-right: 0.4rem"></i>友链'
   class_desc: '<span style="font-style: italic;">最可愛的朋友在這裏</span>'
   link_list:
-    - name:  // 你的名字
-      link:  // 你的網站
-      avatar: // 你的頭像
-      descr:  // 你的描述
+    # - name:  // 你的名字
+    #   link:  // 你的網站
+    #   avatar: // 你的頭像
+    #   descr:  // 你的描述

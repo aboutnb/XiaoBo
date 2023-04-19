@@ -7,7 +7,7 @@ tags:
 categories: Vue
 keywords: 'Vue,Lottie,动画'
 description: vue中使用Lottie动画
-cover: 'https://img.axyr.org.cn/image/bug.jpg'
+cover: 'https://cnblogs-img.axyr.org.cn/ezgif.com-gif-maker-5-U6t.gif'
 sticky: 
 comments: true
 abbrlink: 54ce7671
