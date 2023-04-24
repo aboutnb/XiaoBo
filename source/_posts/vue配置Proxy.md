@@ -25,7 +25,7 @@ date:
 
 * 如何解决
 
-```
+```js
 
 module.exports = {
 	devServer: {

@@ -5,7 +5,7 @@ tags:
 categories: Hexo
 keywords: Hexo
 description: 部署hexo到GitHub
-cover: 'https://img.axyr.org.cn/image/bug.jpg'
+cover: 'https://cnblogs-img.axyr.org.cn/hexo_github.jpg'
 sticky: 
 comments: true
 abbrlink: 51fdedbd
@@ -35,7 +35,7 @@ date:
 
 回到你的`git bash`中
 
-```
+```bash
 git config --global user.name "YourName"
 git config --global user.email "YourEmail"
 ```
@@ -44,14 +44,14 @@ git config --global user.email "YourEmail"
 
 输入一下两条命令，检查一下你的用户名和邮箱是否正确
 
-```
+```bash
 git config user.name
 git config user.email
 ```
 
 创建SSH,一路回车
 
-```
+```bash
 ssh-keygen -t rsa -C "YourEmail"
 
 ```
@@ -74,7 +74,7 @@ ssh-keygen -t rsa -C "YourEmail"
 
 在`gitbash`中，查看是否成功
 
-```
+```bash
 ssh -T git@github.com
 ```
 
@@ -84,7 +84,7 @@ ssh -T git@github.com
 
 YourgithubName就是你的GitHub账户
 
-```
+```bash
 deploy:
   type: git
   repo: https://github.com/YourgithubName/YourgithubName.github.io.git
@@ -93,11 +93,11 @@ deploy:
 
 这个时候需要先安装`deploy-git` ，也就是部署的命令,这样你才能用命令部署到GitHub。
 
-```
+```bash
 npm install hexo-deployer-git --save
 ```
 接上一步之后
-```
+```bash
 hexo clean
 hexo generate
 hexo deploy

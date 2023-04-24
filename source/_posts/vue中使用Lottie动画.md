@@ -34,19 +34,19 @@ date:
 </br>
 
 ### 安装vue-lottie包
-```
+```bash
 npm install --save vue-lottie
 ```
 
 
 在main.js引入并全局注册组件
 
-```
+```js
 import lottie from 'vue-lottie';
 Vue.component('lottie', lottie)
 ```
 或者 在需要的组件里面引入并注册组件
-```
+```js
 import Lottie from 'vue-lottie/src/lottie.vue'
 
 components:{
@@ -58,15 +58,15 @@ components:{
 
 将我们在[Lottiefiles](https://lottiefiles.com/popular)下载下来的相应动画资源保存到项目中并映入
 * 在需要使用的组件里引用lottie动画的json文件
-```
+```js
 import * as animationData from "../assets/lottie/loading.json";
 ```
 * 使用组件
-```
+```html
 <lottie :options="defaultOptions" :height="200" :width="200" v-on:animCreated="handleAnimation" />
 ```
 * data里面添加相应属性
-```
+```js
 data(){
     return {
         defaultOptions: { animationData: animationData..default },
@@ -74,7 +74,7 @@ data(){
 }
 ```
 * 定义方法
-```
+```js
 methods: {
     handleAnimation: function(anim) {
         this.anim = anim;

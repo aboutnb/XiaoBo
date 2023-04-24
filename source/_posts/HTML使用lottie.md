@@ -6,7 +6,7 @@ tags:
 categories: HTML
 keywords: 'HTML,Lottie'
 description: HTML使用lottie
-cover: 'https://img.axyr.org.cn/image/bug.jpg'
+cover: 'https://cnblogs-img.axyr.org.cn/1586933930554056.gif'
 sticky: 
 comments: true
 abbrlink: 1ff9810f
@@ -19,17 +19,17 @@ date:
   ```
 2.  ### 设置dom节点 
 
-```
+```html
 <div id="svgContainer" style="width: 100%;height: 100%;"></div>
 ```
 
 3.  ### 获取节点
-  ```
+```js
 var svgContainer=document.getElementById('svgContainer');
 ```
 
 4. ### 初始化 lottie 
-  ```
+```js
 var animItem=lottie.loadAnimation({
         container: svgContainer, // 包含动画的dom元素
         loop: true,// 循环播放
@@ -44,7 +44,7 @@ var animItem=lottie.loadAnimation({
 ```
 
 5. ### 调用方法
-```
+```js
     function start(){
         console.log("调用start");
         lottie.play();
