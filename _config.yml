@@ -140,4 +140,9 @@ markdown:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ""
+- type: baidu_url_submitter
+
+baidu_url_submit:
+  host: https://blog.aboutnb.com
+  token: BV1TzeKJfUDqxVaI
+  path: baidu_urls.txt
