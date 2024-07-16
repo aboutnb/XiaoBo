@@ -6,7 +6,7 @@ tags:
 categories: HTML
 keywords: 'HTML,Lottie'
 description: HTML使用lottie
-cover: 'https://cnblogs-img.axyr.org.cn/1586933930554056.gif'
+cover: 'https://assets.aboutnb.com/1586933930554056.gif'
 sticky: 
 comments: true
 abbrlink: 1ff9810f

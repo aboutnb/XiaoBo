@@ -5,7 +5,7 @@ tags:
 categories: Hexo
 keywords: Hexo
 description: 部署hexo到GitHub
-cover: 'https://cnblogs-img.axyr.org.cn/hexo_github.jpg'
+cover: 'https://assets.aboutnb.com/hexo_github.jpg'
 sticky: 
 comments: true
 abbrlink: 51fdedbd

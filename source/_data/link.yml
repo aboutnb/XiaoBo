@@ -26,6 +26,14 @@
   class_desc: '<span style="font-style: italic;">最可愛的朋友在這裏</span>'
   link_list:
     - name: XiaoBo
-      link: https://www.aboutnb.com //
+      link: https://www.aboutnb.com
       avatar: https://avatars.githubusercontent.com/u/82651354?v=4
       descr: Time proves everything !
+    - name: tuanzisama
+      link: https://www.mikuchan.top/
+      avatar: https://avatars.githubusercontent.com/u/33369729?v=4
+      descr: 不定期更新，欢迎捕捉。
+    - name: Pluto
+      link: https://blog.springtrees.cn
+      avatar: https://avatars.githubusercontent.com/u/57250019?v=4
+      descr: 古德儿！

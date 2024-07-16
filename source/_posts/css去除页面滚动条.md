@@ -5,7 +5,7 @@ tags:
 categories: CSS
 keywords: CSS
 description: CSS去除页面滚动条
-cover: 'https://cnblogs-img.axyr.org.cn/css.png'
+cover: 'https://assets.aboutnb.com/css.png'
 sticky: 
 comments: true
 abbrlink: b1908561
