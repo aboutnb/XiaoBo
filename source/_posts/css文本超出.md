@@ -5,7 +5,7 @@ tags:
 categories: CSS
 keywords: CSS
 description: CSS文本超出
-cover: 'https://assets.aboutnb.com/css.png'
+cover: 'https://assets.aboutnb.com/blog/css.png'
 sticky: 
 comments: true
 abbrlink: 8fecacbf

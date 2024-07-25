@@ -5,7 +5,7 @@ tags:
 categories: Vue
 keywords: Vue
 description: vue解决跨域问题
-cover: 'https://img.axyr.org.cn/image/bug.jpg'
+cover: 'https://assets.aboutnb.com/blog/bug.jpg'
 sticky: 
 comments: true
 abbrlink: de82cbf6

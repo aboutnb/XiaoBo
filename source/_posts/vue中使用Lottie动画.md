@@ -7,7 +7,7 @@ tags:
 categories: Vue
 keywords: 'Vue,Lottie,动画'
 description: vue中使用Lottie动画
-cover: 'https://assets.aboutnb.com/ezgif.com-gif-maker-5-U6t.gif'
+cover: 'https://assets.aboutnb.com/blog/ezgif.com-gif-maker-5-U6t.gif'
 sticky: 
 comments: true
 abbrlink: 54ce7671
@@ -20,7 +20,7 @@ date:
 `Lottie`是一个`iOS`，`Android`和`React Native`库，可以实时渲染`After Effects`动画，允许应用程序像使用静态图像(在这里动画被转化成`json`文件)一样轻松使用动画。网上也有丰富的动画资源可供我们选择
 [Lottiefile](https://lottiefiles.com/)
 
-![Lottie](https://assets.aboutnb.com/ezgif.com-gif-maker-5-U6t.gif)
+![Lottie](https://assets.aboutnb.com/blog/ezgif.com-gif-maker-5-U6t.gif)
 
 ## Lottie介绍
 1. 灵活的`After Effects`功能
@@ -84,4 +84,4 @@ methods: {
 ```
 
   最后就能得到json文件的动画效果:
-  ![404](https://assets.aboutnb.com/91193-android-security.gif)
+  ![404](https://assets.aboutnb.com/blog/91193-android-security.gif)

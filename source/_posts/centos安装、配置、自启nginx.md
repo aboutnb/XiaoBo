@@ -5,7 +5,7 @@ tags:
 categories: Linux
 keywords: Linux
 description: CentOS安装、配置、自启nginx
-cover: "https://assets.aboutnb.com/nginx.jpg"
+cover: "https://assets.aboutnb.com/blog/nginx.jpg"
 comments: true
 abbrlink: 8aff900b
 sticky:
@@ -79,7 +79,7 @@ date:
 
 > Nginx启动成功
   
-![启动成功](https://assets.aboutnb.com/1681884253058.jpg)
+![启动成功](https://assets.aboutnb.com/blog/1681884253058.jpg)
 
 ### nginx.conf检查
     
